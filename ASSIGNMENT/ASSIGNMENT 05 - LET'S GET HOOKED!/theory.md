@@ -1,4 +1,4 @@
-What is the difference between `Named Export`, `Default export` and `* as export`?
+# What is the difference between `Named Export`, `Default export` and `* as export`?
 
 - `Named Export:` Named Export is used when we have multiple function or variable in one file then, we used Named Export.
 
@@ -35,15 +35,15 @@ import * as Obj from "./sample";
 use: const data = Obj.func1
 ```
 
-What is the importance of `config.js file``?
+# What is the importance of `config.js file``?
 
 `config file` or `constants file` is mainly used for storing hard-coded data which will be used during development.
 
-What are React Hooks?
+# What are React Hooks?
 
 Hooks are normal javaScript function which is wrote by facebook developers.
 
-Why do we need a useState Hook?
+# Why do we need a useState Hook?
 
 useState Hook return an array to us which contain a state variable and function which is used for manipulating the value of state variable.
 
